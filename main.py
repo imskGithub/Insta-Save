@@ -43,4 +43,3 @@ if not os.path.exists(date):
 
 # Example - Instagram_Save("youtube")
 # Example - Instagram_Saves(filename="list.txt", sep="\n")
-Instagram_Saves(filename="links.txt")
